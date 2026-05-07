@@ -35,20 +35,31 @@
 
 ### Featured Projects
 
-| Project | Status | Description | Stack |
-|---|---|---|---|
-| [Model Extraction Benchmark](https://github.com/caumin/model-extraction-benchmark) | In Progress | 모델 추출 공격을 통일된 실험 설정에서 비교하기 위한 PyTorch benchmark입니다. 여러 공격 계열을 같은 runtime, budget, reporting contract 아래에서 평가하는 구조를 정리하고 있습니다.<br/><sub>PyTorch benchmark for comparing model extraction attacks under a unified experiment contract.</sub> | Python, PyTorch |
-| [SafetyAI](https://github.com/caumin/safetyai) | Completed | adversarial example을 직접 실험해보기 위한 AI security 토이 프로젝트입니다. 이미지 분류 모델이 작은 입력 변화에 어떻게 흔들릴 수 있는지 확인하는 데 초점을 두었습니다.<br/><sub>A toy AI security project for experimenting with adversarial examples.</sub> | Python, PyTorch |
-| [AI-Generated Image Detector](https://github.com/caumin/deepfake-detection-sckit) | Completed | AI 생성 이미지와 실제 이미지를 구분하기 위해 통계, 주파수 도메인, 색상, 노이즈 잔여물 기반 특징을 추출하고 전통적인 ML 분류기로 학습하는 프로젝트입니다.<br/><sub>A lightweight detector for real vs AI-generated images using statistical and frequency-domain features.</sub> | Python, scikit-learn, NumPy, Pandas |
+#### [Model Extraction Benchmark](https://github.com/caumin/model-extraction-benchmark)
 
-### SafetyAI Preview
+- Status: In Progress
+- Stack: Python, PyTorch
+- 모델 추출 공격을 통일된 실험 설정에서 비교하기 위한 PyTorch benchmark입니다. 여러 공격 계열을 같은 runtime, budget, reporting contract 아래에서 평가하는 구조를 정리하고 있습니다.
+- <sub>PyTorch benchmark for comparing model extraction attacks under a unified experiment contract.</sub>
+
+#### [SafetyAI](https://github.com/caumin/safetyai)
+
+- Status: Completed
+- Stack: Python, PyTorch
+- adversarial example을 직접 실험해보기 위한 AI security 토이 프로젝트입니다. 이미지 분류 모델이 작은 입력 변화에 어떻게 흔들릴 수 있는지 확인하는 데 초점을 두었습니다.
+- <sub>A toy AI security project for experimenting with adversarial examples.</sub>
 
 <p align="center">
   <img src="assets/saftey_ai_1.png" alt="SafetyAI preview 1" width="48%" />
   <img src="assets/safety_ai_2.png" alt="SafetyAI preview 2" width="48%" />
 </p>
 
-### AI-Generated Image Detector Preview
+#### [AI-Generated Image Detector](https://github.com/caumin/deepfake-detection-sckit)
+
+- Status: Completed
+- Stack: Python, scikit-learn, NumPy, Pandas
+- AI 생성 이미지와 실제 이미지를 구분하기 위해 통계, 주파수 도메인, 색상, 노이즈 잔여물 기반 특징을 추출하고 전통적인 ML 분류기로 학습하는 프로젝트입니다.
+- <sub>A lightweight detector for real vs AI-generated images using statistical and frequency-domain features.</sub>
 
 <p align="center">
   <img src="assets/deepdect_1.png" alt="AI-generated image detector preview 1" width="95%" />
