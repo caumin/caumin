@@ -54,7 +54,7 @@
   <img src="assets/safety_ai_2.png" alt="SafetyAI preview 2" width="48%" />
 </p>
 
-#### [AI-Generated Image Detector](https://github.com/caumin/deepfake-detection-sckit)
+#### [AI-Generated Image Detector](https://github.com/caumin/deepfake-detection-scikit)
 
 - Status: Completed
 - Stack: Python, scikit-learn, NumPy, Pandas
