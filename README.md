@@ -51,9 +51,15 @@
 ### AI-Generated Image Detector Preview
 
 <p align="center">
-  <img src="assets/deepdect_1.png" alt="AI-generated image detector preview 1" width="32%" />
-  <img src="assets/deepdect_2.png" alt="AI-generated image detector preview 2" width="32%" />
-  <img src="assets/deepdect_3.png" alt="AI-generated image detector preview 3" width="32%" />
+  <img src="assets/deepdect_1.png" alt="AI-generated image detector preview 1" width="95%" />
+</p>
+
+<p align="center">
+  <img src="assets/deepdect_2.png" alt="AI-generated image detector preview 2" width="95%" />
+</p>
+
+<p align="center">
+  <img src="assets/deepdect_3.png" alt="AI-generated image detector preview 3" width="95%" />
 </p>
 
 ### Current Focus
