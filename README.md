@@ -41,6 +41,13 @@
 | [SafetyAI](https://github.com/caumin/safetyai) | Completed | adversarial example을 직접 실험해보기 위한 AI security 토이 프로젝트입니다. 이미지 분류 모델이 작은 입력 변화에 어떻게 흔들릴 수 있는지 확인하는 데 초점을 두었습니다.<br/><sub>A toy AI security project for experimenting with adversarial examples.</sub> | Python, PyTorch |
 | [AI-Generated Image Detector](https://github.com/caumin/deepfake-detection-sckit) | Completed | AI 생성 이미지와 실제 이미지를 구분하기 위해 통계, 주파수 도메인, 색상, 노이즈 잔여물 기반 특징을 추출하고 전통적인 ML 분류기로 학습하는 프로젝트입니다.<br/><sub>A lightweight detector for real vs AI-generated images using statistical and frequency-domain features.</sub> | Python, scikit-learn, NumPy, Pandas |
 
+### SafetyAI Preview
+
+<p align="center">
+  <img src="assets/safetyai-1.jpg" alt="SafetyAI adversarial example preview 1" width="48%" />
+  <img src="assets/safetyai-2.jpg" alt="SafetyAI adversarial example preview 2" width="48%" />
+</p>
+
 ### Current Focus
 
 - model extraction benchmark 구조 고도화
