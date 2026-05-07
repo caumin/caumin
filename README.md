@@ -42,7 +42,7 @@
 - 모델 추출 공격을 통일된 실험 설정에서 비교하기 위한 PyTorch benchmark입니다. 여러 공격 계열을 같은 runtime, budget, reporting contract 아래에서 평가하는 구조를 정리하고 있습니다.
 - <sub>PyTorch benchmark for comparing model extraction attacks under a unified experiment contract.</sub>
 
-#### [SafetyAI](https://github.com/caumin/safetyai)
+#### [Adversarial Attack Simpson](https://github.com/caumin/adversarial-attack-simpson)
 
 - Status: Completed
 - Stack: Python, PyTorch
