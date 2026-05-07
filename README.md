@@ -44,8 +44,16 @@
 ### SafetyAI Preview
 
 <p align="center">
-  <img src="assets/safetyai-1.jpg" alt="SafetyAI adversarial example preview 1" width="48%" />
-  <img src="assets/safetyai-2.jpg" alt="SafetyAI adversarial example preview 2" width="48%" />
+  <img src="assets/saftey_ai_1.png" alt="SafetyAI preview 1" width="48%" />
+  <img src="assets/safety_ai_2.png" alt="SafetyAI preview 2" width="48%" />
+</p>
+
+### AI-Generated Image Detector Preview
+
+<p align="center">
+  <img src="assets/deepdect_1.png" alt="AI-generated image detector preview 1" width="32%" />
+  <img src="assets/deepdect_2.png" alt="AI-generated image detector preview 2" width="32%" />
+  <img src="assets/deepdect_3.png" alt="AI-generated image detector preview 3" width="32%" />
 </p>
 
 ### Current Focus
