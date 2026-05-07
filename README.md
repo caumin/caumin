@@ -62,11 +62,8 @@
 - <sub>A lightweight detector for real vs AI-generated images using statistical and frequency-domain features.</sub>
 
 <p align="center">
-  <img src="assets/deepdect_1.png" alt="AI-generated image detector preview 1" width="95%" />
-</p>
-
-<p align="center">
-  <img src="assets/deepdect_2.png" alt="AI-generated image detector preview 2" width="95%" />
+  <img src="assets/deepdect_1.png" alt="AI-generated image detector preview 1" width="48%" />
+  <img src="assets/deepdect_2.png" alt="AI-generated image detector preview 2" width="48%" />
 </p>
 
 <p align="center">
