@@ -9,21 +9,17 @@
 
 ### About Me
 
-- 중앙대학교 산업보안학과에서 정보보호와 보안 거버넌스를 공부하고 있습니다.
-- AI 모델의 보안 문제, 특히 adversarial example과 model extraction 같은 주제에 관심이 있습니다.
-- 개인정보보호와 AI 보안을 함께 이해하는 방향으로 프로젝트와 학습 내용을 정리하고 있습니다.
-- 2022.11 - 2024.06 대한민국 공군 제8전투비행단 정보보호반에서 보안 운영을 경험했습니다.
+- 2020.03 - 중앙대학교 산업보안학과 재학
+- 2022.11 - 2024.06 대한민국 공군 제8전투비행단 정보보호반
   - 보안 솔루션 운영
-  - NAC 로그 분석
-  - 보안 인시던트 1차 대응
+  - 보안 사고 대응
 
 ### Interests
 
 - AI Security
-- Adversarial Machine Learning
+- AI/ML
 - Model Extraction
 - Privacy & Data Protection
-- Image Forensics
 
 ### Tech Stack
 
@@ -69,12 +65,6 @@
 <p align="center">
   <img src="assets/deepdect_3.png" alt="AI-generated image detector preview 3" width="95%" />
 </p>
-
-### Current Focus
-
-- model extraction benchmark 구조 고도화
-- adversarial ML과 AI 보안 공격/방어 기법 학습
-- 개인정보보호 관점에서 AI 시스템의 위험을 이해하는 것
 
 ### Contact
 
