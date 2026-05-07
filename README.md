@@ -1,35 +1,54 @@
-<h1 align="center">안녕하세요, 민철입니다 👋</h1>
+<h1 align="center">김민철 / Mincheol Kim</h1>
+
 <p align="center">
-  정보보호 · AI 보안에 관심 있는 학생 개발자 <br/>
-  공군 단급부대 정보보호부서에서 1년 7개월간 보안 운영을 경험했습니다.
+  중앙대학교 산업보안학과 재학 중<br/>
+  AI, AI Security, 개인정보보호에 관심을 가지고 공부하고 있습니다.
 </p>
 
 ---
 
-### 🔎 About Me
-- 🎓 중앙대학교 재학 중 — 정보보호 · 금융 IT · AI 융합 학습
-- 🛡 관심 분야: **AI Security (Adversarial ML)**, **개인정보 프라이버시(PET)**, **금융 보안 / ISMS-P**
-- 🛫 2022.11 – 2024.06 · 대한민국 공군 제8전투비행단 정보보호반
-  - 보안 솔루션 운용, NAC 로그 분석, 보안 인시던트 1차 대응
-- ✍️ 학습 정리는 Notion에서 시작해 핵심만 GitHub에 정리합니다.
+### About Me
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- 실제 사용 가능한 스택만 남기고 나머지는 지우세요 -->
+- 중앙대학교 산업보안학과에서 정보보호와 보안 거버넌스를 공부하고 있습니다.
+- AI 모델의 보안 문제, 특히 adversarial example과 model extraction 같은 주제에 관심이 있습니다.
+- 개인정보보호와 AI 보안을 함께 이해하는 방향으로 프로젝트와 학습 내용을 정리하고 있습니다.
+- 2022.11 - 2024.06 대한민국 공군 제8전투비행단 정보보호반에서 보안 운영을 경험했습니다.
+  - 보안 솔루션 운영
+  - NAC 로그 분석
+  - 보안 인시던트 1차 대응
 
-### 🔐 Featured Projects
-| Project | 한 줄 설명 | Stack |
-|---|---|---|
-| [Adversarial Patch on CNN](<repo-url>) | CNN 이미지 분류기에 대한 adversarial patch 공격 실습 및 결과 분석 | PyTorch, Python |
-| [Security Notes](<repo-url>) | ISMS-P · PET · 클라우드 보안 · 핀테크 학습 정리 | Markdown |
-| [Air Force SecOps Retrospective](<repo-url>) | 군 정보보호반 운영 경험 회고 (공개 가능 범위 내) | Markdown |
+### Interests
 
-### 📫 Contact
-- ✉️ alscjf0107@cau.ac.kr
-- 🔗 LinkedIn: <linkedin-url>
-- 📝 Blog / Notion: <blog-or-notion-url>
+- AI Security
+- Adversarial Machine Learning
+- Model Extraction
+- Privacy & Data Protection
+- Image Forensics
 
-<sub>ⓒ 2026 민철. Built with curiosity about security & AI.</sub>
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+### Featured Projects
+
+| Project | Status | Description | Stack |
+|---|---|---|---|
+| [Model Extraction Benchmark](https://github.com/caumin/model-extraction-benchmark) | In Progress | 모델 추출 공격을 통일된 실험 설정에서 비교하기 위한 PyTorch benchmark입니다. 여러 공격 계열을 같은 runtime, budget, reporting contract 아래에서 평가하는 구조를 정리하고 있습니다.<br/><sub>PyTorch benchmark for comparing model extraction attacks under a unified experiment contract.</sub> | Python, PyTorch |
+| [SafetyAI](https://github.com/caumin/safetyai) | Completed | adversarial example을 직접 실험해보기 위한 AI security 토이 프로젝트입니다. 이미지 분류 모델이 작은 입력 변화에 어떻게 흔들릴 수 있는지 확인하는 데 초점을 두었습니다.<br/><sub>A toy AI security project for experimenting with adversarial examples.</sub> | Python, PyTorch |
+| [AI-Generated Image Detector](https://github.com/caumin/deepfake-detection-sckit) | Completed | AI 생성 이미지와 실제 이미지를 구분하기 위해 통계, 주파수 도메인, 색상, 노이즈 잔여물 기반 특징을 추출하고 전통적인 ML 분류기로 학습하는 프로젝트입니다.<br/><sub>A lightweight detector for real vs AI-generated images using statistical and frequency-domain features.</sub> | Python, scikit-learn, NumPy, Pandas |
+
+### Current Focus
+
+- model extraction benchmark 구조 고도화
+- adversarial ML과 AI 보안 공격/방어 기법 학습
+- 개인정보보호 관점에서 AI 시스템의 위험을 이해하는 것
+
+### Contact
+
+- alscjf0107@cau.ac.kr
+
+<sub>Built around security, AI, and steady learning.</sub>
