@@ -1,10 +1,5 @@
 <h1 align="center">김민철 / Mincheol Kim</h1>
 
-<p align="center">
-  중앙대학교 산업보안학과 재학 중<br/>
-  AI, AI Security, Data Privacy
-</p>
-
 ---
 
 ### About Me
