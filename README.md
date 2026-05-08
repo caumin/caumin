@@ -35,14 +35,14 @@
 
 - Status: In Progress
 - Stack: Python, PyTorch
-- 모델 추출 공격을 통일된 실험 설정에서 비교하기 위한 PyTorch benchmark입니다. 여러 공격 계열을 같은 runtime, budget, reporting contract 아래에서 평가하는 구조를 정리하고 있습니다.
+- 다양한 **모델 추출 공격(Model Extraction Attack)**을 통일된 실험 설정에서 비교하기 위한 PyTorch benchmark.
 - <sub>PyTorch benchmark for comparing model extraction attacks under a unified experiment contract.</sub>
 
 #### [Adversarial Attack Simpson](https://github.com/caumin/adversarial-attack-simpson)
 
 - Status: Completed
 - Stack: Python, PyTorch
-- adversarial example을 직접 실험해보기 위한 AI security 토이 프로젝트입니다. 이미지 분류 모델이 작은 입력 변화에 어떻게 흔들릴 수 있는지 확인하는 데 초점을 두었습니다.
+- 심슨 이미지셋을 활용한 **적대적 공격(Adversarial Attack)** 시연 프로젝트
 - <sub>A toy AI security project for experimenting with adversarial examples.</sub>
 
 <p align="center">
@@ -54,7 +54,7 @@
 
 - Status: Completed
 - Stack: Python, scikit-learn, NumPy, Pandas
-- AI 생성 이미지와 실제 이미지를 구분하기 위해 통계, 주파수 도메인, 색상, 노이즈 잔여물 기반 특징을 추출하고 전통적인 ML 분류기로 학습하는 프로젝트입니다.
+- **AI 생성 이미지와 실제 이미지를 구분**하기 위해 통계, 주파수 도메인, 색상, 노이즈 잔여물 기반 특징을 추출하고 ML 분류기로 학습하는 프로젝트
 - <sub>A lightweight detector for real vs AI-generated images using statistical and frequency-domain features.</sub>
 
 <p align="center">
