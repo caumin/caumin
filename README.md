@@ -35,7 +35,7 @@
 
 - Status: In Progress
 - Stack: Python, PyTorch
-- 다양한 **모델 추출 공격(Model Extraction Attack)**을 통일된 실험 설정에서 비교하기 위한 PyTorch benchmark.
+- 통일된 실험 환경에서의 다양한 **모델 추출 공격(Model Extraction Attack)** PyTorch benchmark.
 - <sub>PyTorch benchmark for comparing model extraction attacks under a unified experiment contract.</sub>
 
 #### [Adversarial Attack Simpson](https://github.com/caumin/adversarial-attack-simpson)
