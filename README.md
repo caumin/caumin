@@ -2,7 +2,7 @@
 
 <p align="center">
   중앙대학교 산업보안학과 재학 중<br/>
-  AI, AI Security, 개인정보보호에 관심을 가지고 공부하고 있습니다.
+  AI, AI Security, Data Privacy
 </p>
 
 ---
