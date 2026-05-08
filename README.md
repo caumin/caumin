@@ -1,7 +1,5 @@
 <h1 align="center">김민철 / Mincheol Kim</h1>
 
----
-
 ### About Me
 
 - 2020.03 - 중앙대학교 산업보안학과 재학
